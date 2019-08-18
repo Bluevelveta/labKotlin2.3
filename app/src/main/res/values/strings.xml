@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">New2.3</string>
+    <string name="box_one">Box one</string>
+    <string name="box_two">Box two</string>
 </resources>
